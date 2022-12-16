@@ -34,25 +34,24 @@ function multiply(a, b){
   return a * b;
 }
 ```
-
 ## Career:
 
 
-Uvoteam (01/2018 - 06/2020) - Junior SEO
+**Uvoteam** (01/2018 - 06/2020) - Junior SEO
 
 ## Education: 
 
 
-National Pedagogical Drahomanov University
+**National Pedagogical Drahomanov University**
 
-RS School - «JavaScript/Front-end. Stage 0»
+**RS School** - «JavaScript/Front-end. Stage 0»
 
-Sololearn - "HTML Fundamentals course"
+**Sololearn** - "HTML Fundamentals course"
 
 
 ## Languages:
 
-English - C1, Polnish - B1, Ukrainian - native
+**English** - C1, **Polish** - B1, **Ukrainian** - native
 
 
 
